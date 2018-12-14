@@ -32,3 +32,10 @@ This repository will contain Tensorflow tutorials on a lot of the most popular d
 * **Universal Approximation Theorem (Work in Progress)** - The [Universal Approximation Theorem](https://en.wikipedia.org/wiki/Universal_approximation_theorem) states that any feed forward neural network with a single hidden layer can model any function. In this notebook, I'll go through a practical example of illustrating why this theorem works, and talk about what the implications are for when you're training your own neural networks. *cough* Overfitting *cough*
 
 * **Learning to Model the XOR Function (Work in Progress)** - XOR is one of the classic functions we see in machine learning theory textbooks. The significance is that we cannot fit a linear model to this function no matter how hard we try. In this notebook, you'll see proof of that, and you'll see how adding a simple hidden layer to the neural net can solve the problem. 
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
